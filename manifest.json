@@ -3,6 +3,7 @@
   "short_name": "Life OS",
   "description": "Tracker personal de hábitos, mood, fitness, finanzas y metas",
   "start_url": "/Lifevos/index.html",
+  "scope": "/Lifevos/",
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#0a0a0a",
