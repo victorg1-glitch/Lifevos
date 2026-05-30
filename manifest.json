@@ -2,7 +2,7 @@
   "name": "Life OS — Víctor",
   "short_name": "Life OS",
   "description": "Tracker personal de hábitos, mood, fitness, finanzas y metas",
-  "start_url": "/index.html",
+  "start_url": "/Lifevos/index.html",
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#0a0a0a",
